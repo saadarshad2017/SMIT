@@ -1,0 +1,450 @@
+
+        
+
+@font-face {
+    font-family: 'REM';
+    src: url('./REM/REM-VariableFont_wght.ttf') format('woff');
+  }
+
+
+/* css */
+.Pepsi-sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("PEP_BWP_D.jpg");
+    background-repeat: no-repeat;
+}
+
+.Image1 {
+    width: 30%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #265cc5;
+}
+
+.Image2 {
+    width: 70%;
+}
+.image-box1 {
+    text-align: center;
+}
+
+.image-box2 {
+    text-align: center;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+}
+
+body {margin: 0;}
+
+.Pepsi-sec {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background: url("PEP_BWP_D.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Image1 {
+    width: 30%;
+    background: #265cc5;
+    background-size: cover;
+    text-align: left;
+}
+
+.Image2 {
+    width: 70%;
+}
+.image-box1 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.image-box2 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+}
+
+body {margin: 0;}
+
+
+
+.better-with-pepsi-promo__video-container__video_title {
+    width: 74%;
+    text-align: center;
+    padding: 4px;
+    background: #1437bf;
+    line-height: 35px;
+    display: inline-block;
+    height: 40px;
+    margin-top: -4px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Pepsi-sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("PEP_BWP_D.jpg");
+    background-repeat: no-repeat;
+}
+
+.Image1 {
+    width: 30%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #265cc5;
+}
+
+.Image2 {
+    width: 70%;
+}
+.image-box1 {
+    text-align: center;
+}
+
+.image-box2 {
+    text-align: center;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+}
+
+body {margin: 0;}
+
+.Pepsi-sec {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background: url("PEP_BWP_D.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Image1 {
+    width: 28%;
+    background: #265cc5;
+    background-size: cover;
+    text-align: left;
+}
+
+.Image2 {
+    width: 75%;
+    position: absolute;
+    right: 0;
+    bottom: 18%;
+    display: flex;
+    justify-content: end;
+}
+.image-box1 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.image-box2 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+}
+
+body {margin: 0;}
+
+
+
+.pep {
+    width: 80%;
+    text-align: center;
+    padding: 2px;
+    background: #1437bf;
+    line-height: 35px;
+    display: inline-block;
+    height: 40px;
+    margin-top: -4px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.Image2 img {
+    width: 50%;
+}.Pepsi-sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("PEP_BWP_D.jpg");
+    background-repeat: no-repeat;
+}
+
+.Image1 {
+    width: 30%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #265cc5;
+}
+
+.Image2 {
+    width: 70%;
+}
+.image-box1 {
+    text-align: center;
+}
+
+.image-box2 {
+    text-align: center;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+}
+
+body {margin: 0;}
+
+.Pepsi-sec {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background: url("PEP_BWP_D.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Image1 {
+    width: 30%;
+    background: #265cc5;
+    background-size: cover;
+    text-align: left;
+}
+
+.Image2 {
+    width: 70%;
+}
+.image-box1 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.image-box2 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+}
+
+body {margin: 0;}
+
+
+
+.better-with-pepsi-promo__video-container__video_title {
+    width: 74%;
+    text-align: center;
+    padding: 4px;
+    background: #1437bf;
+    line-height: 35px;
+    display: inline-block;
+    height: 40px;
+    margin-top: -4px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    font-weight: 700;
+}
+.Pepsi-sec {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url("PEP_BWP_D.jpg");
+    background-repeat: no-repeat;
+}
+
+.Image1 {
+    width: 30%;
+    padding-top: 100px;
+    padding-bottom: 100px;
+    background: #265cc5;
+}
+
+.Image2 {
+    width: 70%;
+}
+.image-box1 {
+    text-align: center;
+}
+
+.image-box2 {
+    text-align: center;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+}
+
+body {margin: 0;}
+
+.Pepsi-sec {
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    background: url("PEP_BWP_D.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.Image1 {
+    width: 28%;
+    background: #265cc5;
+    background-size: cover;
+    text-align: left;
+}
+
+.Image2 {
+    width: 75%;
+    position: absolute;
+    right: 0;
+    bottom: 10%;
+    display: flex;
+    justify-content: end;
+}
+.image-box1 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.image-box2 {
+    text-align: center;
+    cursor: pointer;
+}
+
+.container {
+    margin: 0;
+    padding: 0;
+    max-width: 1920px;
+}
+
+body {margin: 0;}
+
+
+
+.pep {
+    width: 80%;
+    text-align: center;
+    padding: 2px;
+    background: #1437bf;
+    line-height: 35px;
+    display: inline-block;
+    height: 40px;
+    margin-top: -4px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.Image2 img {
+    width: 55%;
+}
+
+
+
+
+
+.main_header {
+    background-color: blue;
+    padding: 20px 0px;
+}
+
+.main_header .container {
+    width: 100%;
+    max-width: -webkit-fill-available;
+    margin: 0px;
+    padding: 0px 80px;
+}
+
+.main_header .main_row {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+}
+
+.main_header .logo_image.column {
+    width: 100%;
+    max-width: 6%;
+    padding: 0px 15px;
+}
+
+.main_header .main_menu {
+    width: 100%;
+    max-width: 74%;
+    padding: 0px 15px;
+}
+
+.main_header .contact_info {
+    width: 100%;
+    max-width: 12%;
+    padding: 0px 15px;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+    border-radius: 20px;
+    font-size: 18px;
+    box-shadow: 0px 0px 10px rgba(255, 0, 0, 0.2);
+    padding: 10px;
+}
+
+
+
+.main_header .main_menu .menu ul {
+    padding: 0px;
+    list-style: none;
+    display: flex;
+}
+
+.main_header .main_menu .menu ul li {
+    padding-right: 60px;
+}
+
+.main_header .main_menu .menu ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "REM";
+}
+
+.contact_btn a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: "REM";
+}
+.contact_btn a:hover {
+    color: black;
+}
+
+       
